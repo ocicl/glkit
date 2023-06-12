@@ -1,0 +1,10 @@
+* glkit
+
+OpenGL utilities for math, shaders, etc.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lispgames/glkit.git   |
+| commit  | 0d8e7c5  |
+| systems | glkit |
+|---------+-------------------------------------------|
+
